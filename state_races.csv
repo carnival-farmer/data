@@ -1,0 +1,12 @@
+state,racetype,democrat_1,democrat_1_probability,democrat_2,democrat_2_probability,..............,,incumbent,incumbent_party,incumbent_retiring,any_other_arbitrary_columns
+Alabama,senate,Democrat Anthony Daniels,1,Democrat Christopher England,0.1,,,Republican Richard Shelby,R,,
+Florida,senate,Democrat Charlie Crist,0,Democrat Val Demings,0.9,,,Republican Marco Rubio,R,,
+Minnesota,senate,,,,,,,,,,
+New York,senate,Democrat Chuck Schumer,0,Democrat Alexandria Ocasio-Cortez,0,,,Democrat Chuck Schumer,D,,
+Oregon,senate,Democrat Ron Wyden,0,,0,,,Democrat Ron Wyden,D,,
+Alabama,governor,Democrat Doug Jones,0.7,Democrat Some Other Guy,0.7,,,,,,
+Florida,governor,Democrat Nikki Fried,0.7,Democrat Anna Eskamani,0.7,,,,,,
+Minnesota,governor,Democrat Tim Walz,1,,1,,,,,,
+New York,governor,Democrat Andrew Cuomo,0.95,Democrat Jumaane Williams,0.05,,,,,,
+Oregon,governor,Democrat Tobias Reed,0.4,Democrat Ted Wheeler,0.4,,,,,,
+Georgia,senate_2,Democrat Raphael Warnock,...,...,,,,,,,
