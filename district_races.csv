@@ -1,5 +1,5 @@
-district,racetype,democrat_1,democrat_1_probability,democrat_2,democrat_2_probability,..............,,incumbent,incumbent_party,incumbent_retiring,any_other_arbitrary_columns
-AL_001,house,Democrat James Averhart,0.7,Democrat Kiani Gardner,0.3,,,,,,
-AL_002,house,Democrat Nathan Mathis,0.7,Democrat Phyllis Harvey-Hall,0.3,,,,,,
-AL_003,house,Democrat Adia Winfrey,1,Democrat Someone Else,0,,,,,,
-NY_013,nyc_mayor,Democrat Andrew Yang,0.3,....,,,,,,,
+district,racetype,democrat_1,democrat_1_probability,democrat_2,democrat_2_probability,incumbent,incumbent_party,incumbent_retiring,any_other_arbitrary_columns
+AL_001,house,Democrat James Averhart,0.7,Democrat Kiani Gardner,0.3,,,,
+AL_002,house,Democrat Nathan Mathis,0.7,Democrat Phyllis Harvey-Hall,0.3,,,,
+AL_003,house,Democrat Adia Winfrey,1,Democrat Someone Else,0,,,,
+NY_013,nyc_mayor,Democrat Andrew Yang,0.3,....,,,,,
