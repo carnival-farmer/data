@@ -424,7 +424,7 @@ WA_009,house,Democrat Adam Smith,D,,A Democratic Candidate,0.2,Democrat Adam Smi
 WA_010,house,Democrat Marilyn Strickland,D,,A Democratic Candidate,0.2,Democrat Marilyn Strickland,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 WI_001,house,Republican Bryan Steil,R,,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.2,Republican Bryan Steil,0.8,,,,,,,,,,,,
 WI_002,house,Democrat Mark Pocan,D,,A Democratic Candidate,0.2,Democrat Mark Pocan,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
-WI_003,house,Democrat Ron Kind,D,,A Democratic Candidate,0.2,Democrat Ron Kind,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
+WI_003,house,Democrat Ron Kind,D,1,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 WI_004,house,Democrat Gwen Moore,D,,A Democratic Candidate,0.2,Democrat Gwen Moore,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 WI_005,house,Republican Scott Fitzgerald,R,,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.2,Republican Scott Fitzgerald,0.8,,,,,,,,,,,,
 WI_006,house,Republican Glenn Grothman,R,,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.2,Republican Glenn Grothman,0.8,,,,,,,,,,,,
