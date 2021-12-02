@@ -404,7 +404,7 @@ OK_005,house,Republican Stephanie Bice,R,,A Democratic Candidate,0.5,Democrat Ke
 OR_001,house,Democrat Suzanne Bonamici,D,,A Democratic Candidate,0.2,Democrat Suzanne Bonamici,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 OR_002,house,Republican Cliff Bentz,R,,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.2,Republican Cliff Bentz,0.8,,,,,,,,,,,,
 OR_003,house,Democrat Earl Blumenauer,D,,A Democratic Candidate,0.2,Democrat Earl Blumenauer,0.8,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
-OR_004,house,Democrat Peter DeFazio,D,,A Democratic Candidate,0.2,Democrat Peter DeFazio,0.8,,,,,,,,,A Republican Candidate,0.75,Republican Alek Skarlatos,0.25,,,,,,,,,,,,
+OR_004,house,Democrat Peter DeFazio,D,1,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.75,Republican Alek Skarlatos,0.25,,,,,,,,,,,,
 OR_005,house,Democrat Kurt Schrader,D,,A Democratic Candidate,0.2,Democrat Kurt Schrader,0.6,Democrat Jamie McLeod-Skinner,0.2,,,,,,,A Republican Candidate,0.5,Republican Nate Sandvig,0.2,Republican Lori Chavez-DeRemer,0.1,,,,,,,,,,
 OR_006,house,,,,A Democratic Candidate,0.7,Democrat Andrea Salinas,0.3,,,,,,,,,A Republican Candidate,0.4,Republican Amy Ryan Courser,0.4,Republican Ron Noble,0.2,,,,,,,,,,
 PA_001,house,Republican Brian Fitzpatrick,R,,A Democratic Candidate,0.6,Democrat Ashley Ehasz,0.2,Democrat Paul Fermo,0.2,,,,,,,A Republican Candidate,0.2,Republican Brian Fitzpatrick,0.8,,,,,,,,,,,,
