@@ -1,39 +1,51 @@
-state,gov_election_year
-Alabama,2022
-Alaska,2022
-Arizona,2022
-Arkansas,2022
-California,2022
-Colorado,2022
-Connecticut,2022
-Florida,2022
-Georgia,2022
-Hawaii,2022
-Idaho,2022
-Illinois,2022
-Iowa,2022
-Kansas,2022
-Maine,2022
-Maryland,2022
-Massachusetts,2022
-Michigan,2022
-Minnesota,2022
-Nebraska,2022
-Nevada,2022
-New Hampshire,2022
-New Mexico,2022
-New York,2022
-Ohio,2022
-Oklahoma,2022
-Oregon,2022
-Pennsylvania,2022
-Rhode Island,2022
-South Carolina,2022
-South Dakota,2022
-Tennessee,2022
-Texas,2022
-Vermont,2022
-Wisconsin,2022
-Wyoming,2022
-New Jersey,2021
-Virginia,2021
+state,gov_election_year,primary_election_date
+Alabama,2022,May 24
+Alaska,2022,August 16
+Arizona,2022,August 2
+Arkansas,2022,May 24
+California,2022,June 7
+Colorado,2022,June 28
+Connecticut,2022,August 9
+Delaware,2024,September 13
+Florida,2022,August 23
+Georgia,2022,May 24
+Hawaii,2022,August 13
+Idaho,2022,May 17
+Illinois,2022,June 28
+Indiana,2024,May 3
+Iowa,2022,June 7
+Kansas,2022,August 2
+Kentucky,2023,May 17
+Louisiana,2023,November 8
+Maine,2022,June 14
+Maryland,2022,June 28
+Massachusetts,2022,September 20
+Michigan,2022,August 2
+Minnesota,2022,August 9
+Mississippi,2023,June 7
+Missouri,2024,August 2
+Montana,2024,June 7
+Nebraska,2022,May 10
+Nevada,2022,June 14
+New Hampshire,2022,September 13
+New Jersey,2025,June 7
+New Mexico,2022,June 7
+New York,2022,June 28
+North Carolina,2024,June 7
+North Dakota,2024,June 14
+Ohio,2022,May 3
+Oklahoma,2022,June 28
+Oregon,2022,May 17
+Pennsylvania,2022,May 17
+Rhode Island,2022,September 13
+South Carolina,2022,June 14
+South Dakota,2022,June 7
+Tennessee,2022,August 4
+Texas,2022,March 1
+Utah,2024,June 28
+Vermont,2022,August 9
+Virginia,2025,June 21
+Washington,2024,August 2
+West Virginia,2024,May 10
+Wisconsin,2022,August 9
+Wyoming,2022,August 16
