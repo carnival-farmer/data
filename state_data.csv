@@ -1,51 +1,51 @@
-state,gov_election_year,primary_election_date
-Alabama,2022,May 24
-Alaska,2022,August 16
-Arizona,2022,August 2
-Arkansas,2022,May 24
-California,2022,June 7
-Colorado,2022,June 28
-Connecticut,2022,August 9
-Delaware,2024,September 13
-Florida,2022,August 23
-Georgia,2022,May 24
-Hawaii,2022,August 13
-Idaho,2022,May 17
-Illinois,2022,June 28
-Indiana,2024,May 3
-Iowa,2022,June 7
-Kansas,2022,August 2
-Kentucky,2023,May 17
-Louisiana,2023,November 8
-Maine,2022,June 14
-Maryland,2022,June 28
-Massachusetts,2022,September 20
-Michigan,2022,August 2
-Minnesota,2022,August 9
-Mississippi,2023,June 7
-Missouri,2024,August 2
-Montana,2024,June 7
-Nebraska,2022,May 10
-Nevada,2022,June 14
-New Hampshire,2022,September 13
-New Jersey,2025,June 7
-New Mexico,2022,June 7
-New York,2022,June 28
-North Carolina,2024,May 17
-North Dakota,2024,June 14
-Ohio,2022,May 3
-Oklahoma,2022,June 28
-Oregon,2022,May 17
-Pennsylvania,2022,May 17
-Rhode Island,2022,September 13
-South Carolina,2022,June 14
-South Dakota,2022,June 7
-Tennessee,2022,August 4
-Texas,2022,March 1
-Utah,2024,June 28
-Vermont,2022,August 9
-Virginia,2025,June 21
-Washington,2024,August 2
-West Virginia,2024,May 10
-Wisconsin,2022,August 9
-Wyoming,2022,August 16
+state,gov_election_year,primary_election_date,election_passed
+Alabama,2022,May 24,1
+Alaska,2022,August 16,0
+Arizona,2022,August 2,0
+Arkansas,2022,May 24,1
+California,2022,June 7,0
+Colorado,2022,June 28,0
+Connecticut,2022,August 9,0
+Delaware,2024,September 13,0
+Florida,2022,August 23,0
+Georgia,2022,May 24,1
+Hawaii,2022,August 13,0
+Idaho,2022,May 17,1
+Illinois,2022,June 28,0
+Indiana,2024,May 3,1
+Iowa,2022,June 7,0
+Kansas,2022,August 2,0
+Kentucky,2023,May 17,1
+Louisiana,2023,November 8,0
+Maine,2022,June 14,0
+Maryland,2022,June 28,0
+Massachusetts,2022,September 20,0
+Michigan,2022,August 2,0
+Minnesota,2022,August 9,0
+Mississippi,2023,June 7,0
+Missouri,2024,August 2,0
+Montana,2024,June 7,0
+Nebraska,2022,May 10,1
+Nevada,2022,June 14,0
+New Hampshire,2022,September 13,0
+New Jersey,2025,June 7,0
+New Mexico,2022,June 7,0
+New York,2022,June 28,0
+North Carolina,2024,May 17,1
+North Dakota,2024,June 14,0
+Ohio,2022,May 3,1
+Oklahoma,2022,June 28,0
+Oregon,2022,May 17,1
+Pennsylvania,2022,May 17,1
+Rhode Island,2022,September 13,0
+South Carolina,2022,June 14,0
+South Dakota,2022,June 7,0
+Tennessee,2022,August 4,0
+Texas,2022,March 1,1
+Utah,2024,June 28,0
+Vermont,2022,August 9,0
+Virginia,2025,June 21,0
+Washington,2024,August 2,0
+West Virginia,2024,May 10,1
+Wisconsin,2022,August 9,0
+Wyoming,2022,August 16,0
