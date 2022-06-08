@@ -3,7 +3,7 @@ Alabama,2022,May 24,1
 Alaska,2022,August 16,0
 Arizona,2022,August 2,0
 Arkansas,2022,May 24,1
-California,2022,June 7,0
+California,2022,June 7,1
 Colorado,2022,June 28,0
 Connecticut,2022,August 9,0
 Delaware,2024,September 13,0
@@ -13,7 +13,7 @@ Hawaii,2022,August 13,0
 Idaho,2022,May 17,1
 Illinois,2022,June 28,0
 Indiana,2024,May 3,1
-Iowa,2022,June 7,0
+Iowa,2022,June 7,1
 Kansas,2022,August 2,0
 Kentucky,2023,May 17,1
 Louisiana,2023,November 8,0
@@ -22,14 +22,14 @@ Maryland,2022,June 28,0
 Massachusetts,2022,September 20,0
 Michigan,2022,August 2,0
 Minnesota,2022,August 9,0
-Mississippi,2023,June 7,0
+Mississippi,2023,June 7,1
 Missouri,2024,August 2,0
-Montana,2024,June 7,0
+Montana,2024,June 7,1
 Nebraska,2022,May 10,1
 Nevada,2022,June 14,0
 New Hampshire,2022,September 13,0
-New Jersey,2025,June 7,0
-New Mexico,2022,June 7,0
+New Jersey,2025,June 7,1
+New Mexico,2022,June 7,1
 New York,2022,June 28,0
 North Carolina,2024,May 17,1
 North Dakota,2024,June 14,0
@@ -39,7 +39,7 @@ Oregon,2022,May 17,1
 Pennsylvania,2022,May 17,1
 Rhode Island,2022,September 13,0
 South Carolina,2022,June 14,0
-South Dakota,2022,June 7,0
+South Dakota,2022,June 7,1
 Tennessee,2022,August 4,0
 Texas,2022,March 1,1
 Utah,2024,June 28,0
