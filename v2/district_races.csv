@@ -287,7 +287,7 @@ NY_013,house,Democrat Adriano Espaillat,D,,Democrat Adriano Espaillat,Republican
 NY_014,house,Democrat Alexandria Ocasio-Cortez,D,,Democrat Alexandria Ocasio-Cortez,Republican Tina Forte,A Democratic Candidate,0.1,Democrat Alexandria Ocasio-Cortez,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 NY_015,house,Democrat Ritchie Torres,D,,Democrat Ritchie Torres,Republican Stylo Sapaskis,A Democratic Candidate,0.1,Democrat Ritchie Torres,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 NY_016,house,Democrat Jamaal Bowman,D,,Democrat Jamaal Bowman,Republican John Ciampoli,A Democratic Candidate,0.1,Democrat Jamaal Bowman,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
-NY_017,house,Republican Michael Lawler,R,,Democrat Sean Maloney,Republican Michael Lawler,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Michael Lawler,0.9,,,,,,,,,,,,
+NY_017,house,Republican Michael Lawler,R,,Democrat Sean Maloney,Republican Michael Lawler,A Democratic Candidate,0.1,Democrat Mondaire Jones,0.9,,,,,,,,,A Republican Candidate,0.1,Republican Michael Lawler,0.9,,,,,,,,,,,,
 NY_018,house,Democrat Pat Ryan,D,,Democrat Pat Ryan,Republican Colin Schmitt,A Democratic Candidate,0.1,Democrat Pat Ryan,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 NY_019,house,Republican Marc Molinaro,R,,Democrat Josh Riley,Republican Marc Molinaro,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Marc Molinaro,0.9,,,,,,,,,,,,
 NY_020,house,Democrat Paul Tonko,D,,Democrat Paul Tonko,Republican Elizabeth Joy,A Democratic Candidate,0.1,Democrat Paul Tonko,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
