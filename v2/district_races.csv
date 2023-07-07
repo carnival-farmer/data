@@ -130,7 +130,7 @@ GA_013,house,Democrat David Scott,D,,Democrat David Scott,Republican Caesar Gonz
 GA_014,house,Republican Marjorie Taylor-Greene,R,,Democrat Marcus Flowers,Republican Marjorie Taylor-Greene,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Marjorie Taylor-Greene,0.9,,,,,,,,,,,,
 HI_001,house,Democrat Ed Case,D,,Democrat Ed Case,Republican Conrad Kress,A Democratic Candidate,0.1,Democrat Ed Case,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
 HI_002,house,Democrat Jill Tokuda,D,,Democrat Jill Tokuda,Republican Joe Akana,A Democratic Candidate,0.1,Democrat Jill Tokuda,0.9,,,,,,,,,A Republican Candidate,1,,,,,,,,,,,,,,
-IA_001,house,Republican Mariannette Miller-Meeks,R,,Democrat Christina Bohannan,Republican Mariannette Miller-Meeks,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Mariannette Miller-Meeks,0.9,,,,,,,,,,,,
+IA_001,house,Republican Mariannette Miller-Meeks,R,,Democrat Zach Wahls,Republican Mariannette Miller-Meeks,A Democratic Candidate,0.5,Democrat Zach Wahls,0.5,,,,,,,,,A Republican Candidate,0.1,Republican Mariannette Miller-Meeks,0.9,,,,,,,,,,,,
 IA_002,house,Republican Ashley Hinson,R,,Democrat Liz Mathis,Republican Ashley Hinson,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Ashley Hinson,0.9,,,,,,,,,,,,
 IA_003,house,Republican Zach Nunn,R,,Democrat Cynthia Axne,Republican Zach Nunn,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Zach Nunn,0.9,,,,,,,,,,,,
 IA_004,house,Republican Randy Feenstra,R,,Democrat Ryan Melton,Republican Randy Feenstra,A Democratic Candidate,1,,,,,,,,,,,A Republican Candidate,0.1,Republican Randy Feenstra,0.9,,,,,,,,,,,,
